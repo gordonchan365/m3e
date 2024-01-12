@@ -4,5 +4,3 @@ services:
     image: registry.cn-hangzhou.aliyuncs.com/fastgpt_docker/m3e-large-api:latest
     ports:
       - "6008:6008"
-    runtime: nvidia  
-   
